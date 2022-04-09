@@ -1,0 +1,22 @@
+{
+  "name": "datastructures-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datastructure.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagusdewantoro/datastructures-test.git"
+  },
+  "author": "Bagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagusdewantoro/datastructures-test/issues"
+  },
+  "homepage": "https://github.com/bagusdewantoro/datastructures-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
